@@ -1,7 +1,7 @@
-numpy
-scipy
-matplotlib
-tqdm
-yaml
-h5py
-imageio
+__pycache__/
+*.pyc
+results/
+*.h5
+*.tif*
+.DS_Store
+.venv/
